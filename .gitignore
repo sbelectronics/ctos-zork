@@ -1,0 +1,7 @@
+# Intel's ASM86 assembler is not redistributed; tools/getorig.sh copies it here
+orig/*.86
+.venv/
+work/
+*.overlay
+__pycache__/
+*.pyc

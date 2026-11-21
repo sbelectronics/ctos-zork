@@ -1,0 +1,12 @@
+open mailbox
+take leaflet
+n
+save
+x1.sav
+restart
+y
+inventory
+restore
+x1.sav
+inventory
+look

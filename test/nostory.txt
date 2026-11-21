@@ -1,0 +1,2 @@
+# no parameter, and no Zork1.dat
+look

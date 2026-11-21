@@ -1,0 +1,3661 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ZORK I: The Great Underground Empire
+Infocom interactive fiction - a fantasy story
+Copyright (c) 1981, 1982, 1983, 1984, 1985, 1986 Infocom, Inc. All rights
+reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Release 119 / Serial number 880429
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+>n
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+>n
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of
+the path.
+
+>u
+Up a Tree
+You are about 10 feet above the ground nestled among some large branches. The
+nearest branch above you is above your reach.
+Beside you on the branch is a small bird's nest.
+In the bird's nest is a large egg encrusted with precious jewels, apparently
+scavenged by a childless songbird. The egg is covered with fine gold inlay, and
+ornamented in lapis lazuli and mother-of-pearl. Unlike most eggs, this one is
+hinged and closed with a delicate looking clasp. The egg appears extremely
+fragile.
+
+>take egg
+Taken.
+
+>d
+Forest Path
+
+>s
+North of House
+
+>e
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+>open window
+With great effort, you open the window far enough to allow entry.
+
+>w
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+On the table is an elongated brown sack, smelling of hot peppers.
+
+>w
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+>take lamp
+Taken.
+
+>turn on lamp
+The brass lantern is now on.
+
+>e
+Kitchen
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+On the table is an elongated brown sack, smelling of hot peppers.
+
+>u
+Attic
+This is the attic. The only exit is a stairway leading down.
+A large coil of rope is lying in the corner.
+On a table is a nasty-looking knife.
+
+>take rope
+Taken.
+
+>d
+Kitchen
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+On the table is an elongated brown sack, smelling of hot peppers.
+
+>w
+Living Room
+Above the trophy case hangs an elvish sword of great antiquity.
+
+>move rug
+With a great effort, the rug is moved to one side of the room, revealing the
+dusty cover of a closed trap door.
+
+>open trap door
+The door reluctantly opens to reveal a rickety staircase descending into
+darkness.
+
+>take sword
+Taken.
+
+>d
+The trap door crashes shut, and you hear someone barring it.
+
+Cellar
+You are in a dark and damp cellar with a narrow passageway leading north, and a
+crawlway to the south. On the west is the bottom of a steep metal ramp which is
+unclimbable.
+Your sword is glowing with a faint blue glow.
+
+>n
+The Troll Room
+This is a small room with passages to the east and south and a forbidding hole
+leading west. Bloodstains and deep scratches (perhaps made by an axe) mar the
+walls.
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+Your sword has begun to glow very brightly.
+
+>kill troll with sword
+The troll is momentarily disoriented and can't fight back.
+The troll slowly regains his feet.
+
+>kill troll with sword
+The haft of your sword knocks out the troll.
+
+>kill troll with sword
+The unconscious troll cannot defend himself: He dies.
+Almost as soon as the troll breathes his last breath, a cloud of sinister black
+fog envelops him, and when the fog lifts, the carcass has disappeared.
+Your sword is no longer glowing.
+
+>e
+East-West Passage
+This is a narrow east-west passageway. There is a narrow stairway leading down
+at the north end of the room.
+
+>e
+Round Room
+This is a circular stone room with passages in all directions. Several of them
+have unfortunately been blocked by cave-ins.
+
+>n
+North-South Passage
+This is a high north-south passage, which forks to the northeast.
+
+>ne
+Deep Canyon
+You are on the south edge of a deep canyon. Passages lead off to the east,
+northwest and southwest. A stairway leads down. You can hear the sound of
+flowing water from below.
+
+>e
+Dam
+You are standing on the top of the Flood Control Dam #3, which was quite a
+tourist attraction in times far distant. There are paths to the north, south,
+and west, and a scramble down.
+The sluice gates on the dam are closed. Behind the dam, there can be seen a wide
+reservoir. Water is pouring over the top of the now abandoned dam.
+There is a control panel here, on which a large metal bolt is mounted. Directly
+above the bolt is a small green plastic bubble.
+
+>n
+Dam Lobby
+This room appears to have been the waiting room for groups touring the dam.
+There are open doorways here to the north and east marked "Private", and there
+is a path leading south over the top of the dam.
+Some guidebooks entitled "Flood Control Dam #3" are on the reception desk.
+There is a matchbook whose cover says "Visit Beautiful FCD#3" here.
+
+>take matches
+Taken.
+
+>n
+Maintenance Room
+This is what appears to have been the maintenance room for Flood Control Dam #3.
+Apparently, this room has been ransacked recently, for most of the valuable
+equipment is gone. On the wall in front of you is a group of buttons colored
+blue, yellow, brown, and red. There are doorways to the west and south.
+There is a wrench here.
+There is an object which looks like a tube of toothpaste here.
+There is a screwdriver here.
+There is a group of tool chests here.
+
+>push yellow button
+Click.
+
+>take wrench
+Taken.
+
+>take screwdriver
+Taken.
+
+>s
+Dam Lobby
+Some guidebooks entitled "Flood Control Dam #3" are on the reception desk.
+
+>s
+Dam
+You are standing on the top of the Flood Control Dam #3, which was quite a
+tourist attraction in times far distant. There are paths to the north, south,
+and west, and a scramble down.
+The sluice gates on the dam are closed. Behind the dam, there can be seen a wide
+reservoir. Water is pouring over the top of the now abandoned dam.
+There is a control panel here, on which a large metal bolt is mounted. Directly
+above the bolt is a small green plastic bubble which is glowing serenely.
+
+>turn bolt with wrench
+The sluice gates open and water pours through the dam.
+
+>drop wrench
+Dropped.
+
+>drop screwdriver
+Dropped.
+
+>s
+Deep Canyon
+
+>sw
+North-South Passage
+
+>s
+Round Room
+
+>se
+Engravings Cave
+You have entered a low cave with passages leading northwest and east.
+There are old engravings on the walls here.
+
+>e
+Dome Room
+You are at the periphery of a large dome, which forms the ceiling of another
+room below. Protecting you from a precipitous drop is a wooden railing which
+circles the dome.
+
+>tie rope to railing
+The rope drops over the side and comes within ten feet of the floor.
+
+>d
+Torch Room
+This is a large room with a prominent doorway leading to a down staircase. Above
+you is a large dome. Up around the edge of the dome (20 feet up) is a wooden
+railing. In the center of the room sits a white marble pedestal.
+A piece of rope descends from the railing above, ending some five feet above
+your head.
+Sitting on the pedestal is a flaming torch, made of ivory.
+
+>take torch
+Taken.
+
+>turn off lamp
+The brass lantern is now off.
+
+>drop sword
+Dropped.
+
+>drop egg
+Dropped.
+
+>s
+Temple
+This is the north end of a large temple. On the east wall is an ancient
+inscription, probably a prayer in a long-forgotten language. Below the prayer is
+a staircase leading down. The west wall is solid granite. The exit to the north
+end of the room is through huge marble pillars.
+There is a brass bell here.
+
+>take bell
+Taken.
+
+>s
+Altar
+This is the south end of a large temple. In front of you is what appears to be
+an altar. In one corner is a small hole in the floor which leads into darkness.
+You probably could not get back up it.
+On the two ends of the altar are burning candles.
+On the altar is a large black book, open to page 569.
+
+>take book
+Taken.
+
+>take candles
+Taken.
+
+>d
+Cave
+This is a tiny cave with entrances west and north, and a dark, forbidding
+staircase leading down.
+
+>d
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+  Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled
+bodies in one corner. Thousands of voices, lamenting some hideous fate, can be
+heard.
+The way through the gate is barred by evil spirits, who jeer at your attempts to
+pass.
+
+>ring bell
+The bell suddenly becomes red hot and falls to the ground. The wraiths, as if
+paralyzed, stop their jeering and slowly turn to face you. On their ashen faces,
+the expression of a long-forgotten terror takes shape.
+In your confusion, the candles drop to the ground (and they are out).
+
+>take candles
+Taken.
+
+>light match
+One of the matches starts to burn.
+
+>light candles with match
+The candles are lit.
+The flames flicker wildly and appear to dance. The earth beneath your feet
+trembles, and your legs nearly buckle beneath you. The spirits cower at your
+unearthly power.
+The match has gone out.
+
+>read book
+Each word of the prayer reverberates through the hall in a deafening confusion.
+As the last word fades, a voice, loud and commanding, speaks: "Begone, fiends!"
+A heart-stopping scream fills the cavern, and the spirits, sensing a greater
+power, flee through the walls.
+
+>s
+Land of the Dead
+You have entered the Land of the Living Dead. Thousands of lost souls can be
+heard weeping and moaning. In the corner are stacked the remains of dozens of
+previous adventurers less fortunate than yourself. A passage exits to the north.
+Lying in one corner of the room is a beautifully carved crystal skull. It
+appears to be grinning at you rather nastily.
+
+>take skull
+Taken.
+
+>n
+Entrance to Hades
+On the ground is a red hot bell.
+
+>u
+Cave
+
+>n
+Mirror Room
+You are in a large square room with tall ceilings. On the south wall is an
+enormous mirror which fills the entire wall. There are exits on the other three
+sides of the room.
+
+>tie rope to railing
+Those things aren't here!
+
+>verbose
+Maximum verbosity.
+
+>turn bolt
+You can't see any bolt here!
+
+>tie rope to railing
+Those things aren't here!
+
+>drink water
+You can't see any water here!
+
+>read book
+Commandment #12592
+
+Oh ye who go about saying unto each:  "Hello sailor":
+Dost thou know the magnitude of thy sin before the gods?
+Yea, verily, thou shalt be ground between two stones.
+Shall the angry gods cast thy body into the whirlpool?
+Surely, thy eye shall be put out with a sharp stick!
+Even unto the ends of the earth shalt thou wander and
+Unto the land of the dead shalt thou be sent at last.
+Surely thou shalt repent of thy cunning.
+
+>light torch
+It is already on.
+
+>drink water
+You can't see any water here!
+
+>push yellow button
+You can't see any yellow button here!
+
+>light torch
+It is already on.
+
+>e
+Cave
+This is a tiny cave with entrances west and north, and a dark, forbidding
+staircase leading down.
+A seedy-looking individual with a large bag just wandered through the room. On
+the way through, he quietly abstracted some valuables from your possession,
+mumbling something about "Doing unto others before..."
+
+>tie rope to railing
+Those things aren't here!
+A gust of wind blows out your candles!
+It is now completely dark.
+
+>odysseus
+Wasn't he a sailor?
+
+>open door
+It's too dark to see!
+
+>s
+Oh, no! You have walked into the slavering fangs of a lurking grue!
+
+    ****  You have died  ****
+
+As you take your last breath, you feel relieved of your burdens. The feeling
+passes as you find yourself before the gates of Hell, where the spirits jeer at
+you and deny you entry. Your senses are disturbed. The objects in the dungeon
+appear indistinct, bleached of color, even unreal.
+
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+  Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled
+bodies in one corner. Thousands of voices, lamenting some hideous fate, can be
+heard.
+There is a brass bell here.
+
+>again
+Land of the Dead
+You have entered the Land of the Living Dead. Thousands of lost souls can be
+heard weeping and moaning. In the corner are stacked the remains of dozens of
+previous adventurers less fortunate than yourself. A passage exits to the north.
+
+>nw
+You can't go that way.
+
+>attack troll
+What do you want to attack the troll with?
+
+>tie rope to railing
+Those things aren't here!
+
+>in
+You can't go that way.
+
+>s
+You can't go that way.
+
+>count leaves
+You can't see any leaves here!
+
+>u
+You can't go that way.
+
+>sw
+You can't go that way.
+
+>ne
+You can't go that way.
+
+>read book
+You can't see any book here!
+
+>diagnose
+You are dead.
+
+>w
+You can't go that way.
+
+>turn bolt
+You can't see any bolt here!
+
+>treasure
+You can't even do that.
+
+>dig sand
+What do you want to dig the sand with?
+
+>examine all
+pile of bodies: You can't even do that.
+
+>throw knife at thief
+You don't have that!
+
+>score
+You're dead! How can you think of your score?
+
+>give egg to thief
+You don't have that!
+
+>pour water
+You can't see any water here!
+
+>n
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+  Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled
+bodies in one corner. Thousands of voices, lamenting some hideous fate, can be
+heard.
+There is a brass bell here.
+
+>n
+You can't go that way.
+
+>climb rope
+You can't see any rope here!
+
+>smell
+What do you want to smell?
+
+>open case
+You can't see any case here!
+
+>brief
+Brief descriptions.
+
+>n
+You can't go that way.
+
+>pray
+Your prayers are not heard.
+
+>temple
+You can't even do that.
+
+>score
+You're dead! How can you think of your score?
+
+>drink water
+You can't see any water here!
+
+>kill thief with sword
+You don't have that!
+
+>w
+You can't go that way.
+
+>u
+Cave
+
+>w
+Winding Passage
+This is a winding passage. It seems that there are only exits on the east and
+north.
+
+>read leaflet
+You can't see any leaflet here!
+
+>w
+You can't go that way.
+
+>give egg to thief
+You don't have that!
+
+>enter window
+You can't see any window here!
+
+>u
+You can't go that way.
+
+>e
+Cave
+
+>n
+Mirror Room
+
+>inflate boat
+What do you want to inflate the boat with?
+
+>enter boat
+You can't see any boat here!
+
+>se
+You can't go that way.
+
+>push yellow button
+You can't see any yellow button here!
+
+>open window
+You can't see any window here!
+
+>attack troll
+What do you want to attack the troll with?
+
+>put all in case
+You don't have the set of teeth.
+
+>d
+You can't go that way.
+
+>examine all
+pair of hands: You can't even do that.
+
+>listen
+What do you want to listen to?
+
+>z
+Might as well. You've got an eternity.
+
+>s
+You can't go that way.
+
+>ulysses
+You can't even do that.
+
+>g
+You can't even do that.
+
+>s
+You can't go that way.
+
+>open case
+You can't see any case here!
+
+>take all
+mirror: Your hand passes through its object.
+
+>drop all
+You don't have the set of teeth.
+
+>echo
+You can't even do that.
+
+>e
+Cave
+
+>s
+You can't go that way.
+
+>sw
+You can't go that way.
+
+>turn bolt
+You can't see any bolt here!
+
+>get bar
+You can't see any bar here!
+
+>turn on lamp
+You can't see any lamp here!
+
+>verbose
+Maximum verbosity.
+
+>read book
+You can't see any book here!
+
+>tie rope to railing
+Those things aren't here!
+
+>drink water
+You can't see any water here!
+
+>read book
+You can't see any book here!
+
+>inventory
+You have no possessions.
+
+>put all in case
+You don't have the stairs.
+
+>enter window
+You can't see any window here!
+
+>look
+The room looks strange and unearthly and objects appear indistinct.
+Although there is no light, the room seems dimly illuminated.
+
+Cave
+This is a tiny cave with entrances west and north, and a dark, forbidding
+staircase leading down.
+
+>attack troll
+What do you want to attack the troll with?
+
+>put all in case
+You don't have the stairs.
+
+>inflate boat
+What do you want to inflate the boat with?
+
+>n
+Mirror Room
+You are in a large square room with tall ceilings. On the south wall is an
+enormous mirror which fills the entire wall. There are exits on the other three
+sides of the room.
+
+>listen
+What do you want to listen to?
+
+>odysseus
+You can't even do that.
+
+>e
+Cave
+This is a tiny cave with entrances west and north, and a dark, forbidding
+staircase leading down.
+
+>enter boat
+You can't see any boat here!
+
+>light torch
+You don't have that!
+
+>attack troll
+What do you want to attack the troll with?
+
+>e
+You can't go that way.
+
+>nw
+You can't go that way.
+
+>open door
+You can't see any door here!
+
+>inflate boat
+What do you want to inflate the boat with?
+
+>dig sand
+What do you want to dig the sand with?
+
+>jump
+You can't even do that.
+
+>s
+You can't go that way.
+
+>g
+You can't go that way.
+
+>give egg to thief
+You don't have that!
+
+>enter window
+You can't see any window here!
+
+>d
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+  Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled
+bodies in one corner. Thousands of voices, lamenting some hideous fate, can be
+heard.
+There is a brass bell here.
+
+>d
+You can't go that way.
+
+>s
+Land of the Dead
+You have entered the Land of the Living Dead. Thousands of lost souls can be
+heard weeping and moaning. In the corner are stacked the remains of dozens of
+previous adventurers less fortunate than yourself. A passage exits to the north.
+
+>enter boat
+You can't see any boat here!
+
+>echo
+You can't even do that.
+
+>s
+You can't go that way.
+
+>take sword
+You can't see any sword here!
+
+>take sword
+You can't see any sword here!
+
+>climb rope
+You can't see any rope here!
+
+>inventory
+You have no possessions.
+
+>push blue button
+You can't see any blue button here!
+
+>drop all
+You don't have the pile of bodies.
+
+>enter window
+You can't see any window here!
+
+>light torch
+You don't have that!
+
+>climb tree
+You can't see any tree here!
+
+>ulysses
+You can't even do that.
+
+>score
+You're dead! How can you think of your score?
+
+>echo
+You can't even do that.
+
+>read book
+You can't see any book here!
+
+>in
+You can't go that way.
+
+>brief
+Brief descriptions.
+
+>examine all
+pile of bodies: You can't even do that.
+
+>enter window
+You can't see any window here!
+
+>push blue button
+You can't see any blue button here!
+
+>n
+Entrance to Hades
+There is a brass bell here.
+
+>put all in case
+You don't have the pile of bodies.
+
+>se
+You can't go that way.
+
+>w
+You can't go that way.
+
+>w
+You can't go that way.
+
+>ne
+You can't go that way.
+
+>drink water
+You can't see any water here!
+
+>pray
+Your prayers are not heard.
+
+>diagnose
+You are dead.
+
+>attack troll
+What do you want to attack the troll with?
+
+>pray
+Your prayers are not heard.
+
+>put all in case
+You don't have the pile of bodies.
+
+>get bar
+You can't see any bar here!
+
+>give egg to thief
+You don't have that!
+
+>throw knife at thief
+You don't have that!
+
+>turn on lamp
+You can't see any lamp here!
+
+>u
+Cave
+
+>inventory
+You have no possessions.
+
+>score
+You're dead! How can you think of your score?
+
+>push blue button
+You can't see any blue button here!
+
+>verbose
+Maximum verbosity.
+
+>d
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+  Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled
+bodies in one corner. Thousands of voices, lamenting some hideous fate, can be
+heard.
+There is a brass bell here.
+
+>smell
+What do you want to smell?
+
+>inflate boat
+You can't see any inflat boat here!
+
+>enter boat
+You can't see any boat here!
+
+>e
+You can't go that way.
+
+>u
+Cave
+This is a tiny cave with entrances west and north, and a dark, forbidding
+staircase leading down.
+
+>listen
+What do you want to listen to?
+
+>open case
+You can't see any case here!
+
+>tie rope to railing
+Those things aren't here!
+
+>echo
+You can't even do that.
+
+>sw
+You can't go that way.
+
+>nw
+You can't go that way.
+
+>turn on lamp
+You can't see any lamp here!
+
+>kill thief with sword
+You don't have that!
+
+>take sword
+You can't see any sword here!
+
+>count leaves
+You can't see any leaves here!
+
+>inventory
+You have no possessions.
+
+>s
+You can't go that way.
+
+>take lamp
+You can't see any lamp here!
+
+>drop all
+You don't have the stairs.
+
+>tie rope to railing
+Those things aren't here!
+
+>g
+Those things aren't here!
+
+>throw knife at thief
+You don't have that!
+
+>drop all
+You don't have the stairs.
+
+>ne
+You can't go that way.
+
+>e
+You can't go that way.
+
+>push yellow button
+You can't see any yellow button here!
+
+>move rug
+You can't see any rug here!
+
+>ulysses
+You can't even do that.
+
+>ne
+You can't go that way.
+
+>e
+You can't go that way.
+
+>d
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+  Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled
+bodies in one corner. Thousands of voices, lamenting some hideous fate, can be
+heard.
+There is a brass bell here.
+
+>push blue button
+You can't see any blue button here!
+
+>u
+Cave
+This is a tiny cave with entrances west and north, and a dark, forbidding
+staircase leading down.
+
+>ulysses
+You can't even do that.
+
+>temple
+You can't even do that.
+
+>drop all
+You don't have the stairs.
+
+>d
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+  Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled
+bodies in one corner. Thousands of voices, lamenting some hideous fate, can be
+heard.
+There is a brass bell here.
+
+>d
+You can't go that way.
+
+>tie rope to railing
+Those things aren't here!
+
+>oops
+I can't help your clumsiness.
+
+>take sword
+You can't see any sword here!
+
+>nw
+You can't go that way.
+
+>inventory
+You have no possessions.
+
+>z
+Might as well. You've got an eternity.
+
+>move rug
+You can't see any rug here!
+
+>n
+You can't go that way.
+
+>push yellow button
+You can't see any yellow button here!
+
+>d
+You can't go that way.
+
+>put all in case
+You don't have the pile of bodies.
+
+>w
+You can't go that way.
+
+>pour water
+You can't see any water here!
+
+>s
+Land of the Dead
+You have entered the Land of the Living Dead. Thousands of lost souls can be
+heard weeping and moaning. In the corner are stacked the remains of dozens of
+previous adventurers less fortunate than yourself. A passage exits to the north.
+
+>open window
+You can't see any window here!
+
+>open window
+You can't see any window here!
+
+>s
+You can't go that way.
+
+>d
+You can't go that way.
+
+>n
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+  Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled
+bodies in one corner. Thousands of voices, lamenting some hideous fate, can be
+heard.
+There is a brass bell here.
+
+>s
+Land of the Dead
+You have entered the Land of the Living Dead. Thousands of lost souls can be
+heard weeping and moaning. In the corner are stacked the remains of dozens of
+previous adventurers less fortunate than yourself. A passage exits to the north.
+
+>look
+The room looks strange and unearthly and objects appear indistinct.
+
+Land of the Dead
+You have entered the Land of the Living Dead. Thousands of lost souls can be
+heard weeping and moaning. In the corner are stacked the remains of dozens of
+previous adventurers less fortunate than yourself. A passage exits to the north.
+
+>pray
+Your prayers are not heard.
+
+>put all in case
+You don't have the pile of bodies.
+
+>g
+That would just repeat a mistake.
+
+>enter window
+You can't see any window here!
+
+>climb rope
+You can't see any rope here!
+
+>dig sand
+What do you want to dig the sand with?
+
+>turn bolt
+You can't see any bolt here!
+
+>oops
+I can't help your clumsiness.
+
+>n
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+  Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled
+bodies in one corner. Thousands of voices, lamenting some hideous fate, can be
+heard.
+There is a brass bell here.
+
+>throw knife at thief
+You don't have that!
+
+>drink water
+You can't see any water here!
+
+>w
+You can't go that way.
+
+>ulysses
+You can't even do that.
+
+>s
+Land of the Dead
+You have entered the Land of the Living Dead. Thousands of lost souls can be
+heard weeping and moaning. In the corner are stacked the remains of dozens of
+previous adventurers less fortunate than yourself. A passage exits to the north.
+
+>push blue button
+You can't see any blue button here!
+
+>e
+You can't go that way.
+
+>score
+You're dead! How can you think of your score?
+
+>look
+The room looks strange and unearthly and objects appear indistinct.
+
+Land of the Dead
+You have entered the Land of the Living Dead. Thousands of lost souls can be
+heard weeping and moaning. In the corner are stacked the remains of dozens of
+previous adventurers less fortunate than yourself. A passage exits to the north.
+
+>pour water
+You can't see any water here!
+
+>get bar
+You can't see any bar here!
+
+>pray
+Your prayers are not heard.
+
+>s
+You can't go that way.
+
+>take sword
+You can't see any sword here!
+
+>odysseus
+You can't even do that.
+
+>open door
+You can't see any door here!
+
+>examine all
+pile of bodies: You can't even do that.
+
+>throw knife at thief
+You don't have that!
+
+>out
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+  Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled
+bodies in one corner. Thousands of voices, lamenting some hideous fate, can be
+heard.
+There is a brass bell here.
+
+>z
+Might as well. You've got an eternity.
+
+>dig sand
+What do you want to dig the sand with?
+
+>pour water
+You can't see any water here!
+
+>diagnose
+You are dead.
+
+>treasure
+You can't even do that.
+
+>read leaflet
+You can't see any leaflet here!
+
+>pray
+Your prayers are not heard.
+
+>examine all
+pile of bodies: You can't even do that.
+
+>wave sceptre
+You don't have that!
+
+>examine all
+pile of bodies: You can't even do that.
+
+>inflate boat
+What do you want to inflate the boat with?
+
+>enter window
+You can't see any window here!
+
+>wait
+Might as well. You've got an eternity.
+
+>temple
+You can't even do that.
+
+>enter boat
+You can't see any boat here!
+
+>drop all
+You don't have the pile of bodies.
+
+>drop all
+You don't have the pile of bodies.
+
+>pour water
+You can't see any water here!
+
+>open trap door
+You can't see any trap door here!
+
+>nw
+You can't go that way.
+
+>u
+Cave
+This is a tiny cave with entrances west and north, and a dark, forbidding
+staircase leading down.
+
+>smell
+What do you want to smell?
+
+>out
+You can't go that way.
+
+>look
+The room looks strange and unearthly and objects appear indistinct.
+Although there is no light, the room seems dimly illuminated.
+
+Cave
+This is a tiny cave with entrances west and north, and a dark, forbidding
+staircase leading down.
+
+>tie rope to railing
+Those things aren't here!
+
+>push yellow button
+You can't see any yellow button here!
+
+>smell
+What do you want to smell?
+
+>inflate boat
+You can't see any inflat boat here!
+
+>open case
+You can't see any case here!
+
+>open window
+You can't see any window here!
+
+>throw knife at thief
+You don't have that!
+
+>pour water
+You can't see any water here!
+
+>temple
+You can't even do that.
+
+>tie rope to railing
+Those things aren't here!
+
+>treasure
+You can't even do that.
+
+>d
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+  Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled
+bodies in one corner. Thousands of voices, lamenting some hideous fate, can be
+heard.
+
+>ne
+You can't go that way.
+
+>smell
+What do you want to smell?
+
+>nw
+You can't go that way.
+
+>smell
+What do you want to smell?
+
+>move rug
+You can't see any rug here!
+
+>ulysses
+You can't even do that.
+
+>e
+You can't go that way.
+
+>drop all
+You don't have the pile of bodies.
+
+>read leaflet
+You can't see any leaflet here!
+
+>climb rope
+You can't see any rope here!
+
+>read book
+You can't see any book here!
+
+>w
+You can't go that way.
+
+>listen
+What do you want to listen to?
+
+>diagnose
+You are dead.
+
+>open door
+You can't see any door here!
+
+>se
+You can't go that way.
+
+>look
+The room looks strange and unearthly and objects appear indistinct.
+
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+  Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled
+bodies in one corner. Thousands of voices, lamenting some hideous fate, can be
+heard.
+
+>tie rope to railing
+Those things aren't here!
+
+>w
+You can't go that way.
+
+>again
+You can't go that way.
+
+>take sword
+You can't see any sword here!
+
+>d
+You can't go that way.
+
+>examine all
+pile of bodies: You can't even do that.
+
+>examine all
+pile of bodies: You can't even do that.
+
+>push yellow button
+You can't see any yellow button here!
+
+>pray
+Your prayers are not heard.
+
+>turn on lamp
+You can't see any lamp here!
+
+>s
+Land of the Dead
+You have entered the Land of the Living Dead. Thousands of lost souls can be
+heard weeping and moaning. In the corner are stacked the remains of dozens of
+previous adventurers less fortunate than yourself. A passage exits to the north.
+
+>push yellow button
+You can't see any yellow button here!
+
+>again
+You can't see any yellow button here!
+
+>ne
+You can't go that way.
+
+>turn on lamp
+You can't see any lamp here!
+
+>wait
+Might as well. You've got an eternity.
+
+>listen
+What do you want to listen to?
+
+>open trap door
+You can't see any trap door here!
+
+>oops
+I can't help your clumsiness.
+
+>throw knife at thief
+You don't have that!
+
+>eat lunch
+You can't see any lunch here!
+
+>in
+You can't go that way.
+
+>attack troll
+What do you want to attack the troll with?
+
+>wait
+Might as well. You've got an eternity.
+
+>s
+You can't go that way.
+
+>open case
+You can't see any case here!
+
+>enter window
+You can't see any window here!
+
+>inventory
+You have no possessions.
+
+>tie rope to railing
+Those things aren't here!
+
+>climb rope
+You can't see any rope here!
+
+>examine all
+pile of bodies: You can't even do that.
+
+>n
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+  Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled
+bodies in one corner. Thousands of voices, lamenting some hideous fate, can be
+heard.
+
+>open window
+You can't see any window here!
+
+>brief
+Brief descriptions.
+
+>eat lunch
+You can't see any lunch here!
+
+>z
+Might as well. You've got an eternity.
+
+>turn bolt
+You can't see any bolt here!
+
+>treasure
+You can't even do that.
+
+>enter boat
+You can't see any boat here!
+
+>e
+You can't go that way.
+
+>take all
+There's nothing here you can take.
+
+>inflate boat
+What do you want to inflate the boat with?
+
+>echo
+You can't even do that.
+
+>enter window
+You can't see any window here!
+
+>s
+Land of the Dead
+
+>ulysses
+You can't even do that.
+
+>again
+You can't even do that.
+
+>treasure
+You can't even do that.
+
+>jump
+You can't even do that.
+
+>e
+You can't go that way.
+
+>open trap door
+You can't see any trap door here!
+
+>eat lunch
+You can't see any lunch here!
+
+>n
+Entrance to Hades
+
+>ne
+You can't go that way.
+
+>dig sand
+What do you want to dig the sand with?
+
+>z
+Might as well. You've got an eternity.
+
+>brief
+Brief descriptions.
+
+>put all in case
+You don't have the pile of bodies.
+
+>smell
+What do you want to smell?
+
+>get bar
+You can't see any bar here!
+
+>w
+You can't go that way.
+
+>inflate boat
+What do you want to inflate the boat with?
+
+>u
+Cave
+
+>take coffin
+You can't see any coffin here!
+
+>ne
+You can't go that way.
+
+>turn on lamp
+You can't see any lamp here!
+
+>again
+You can't see any lamp here!
+
+>g
+You can't see any lamp here!
+
+>drop all
+You don't have the stairs.
+
+>push yellow button
+You can't see any yellow button here!
+
+>climb tree
+You can't see any tree here!
+
+>throw knife at thief
+You don't have that!
+
+>throw knife at thief
+You don't have that!
+
+>dig sand
+What do you want to dig the sand with?
+
+>pour water
+You can't see any water here!
+
+>s
+You can't go that way.
+
+>wait
+Might as well. You've got an eternity.
+
+>dig sand
+What do you want to dig the sand with?
+
+>count leaves
+You can't see any leaves here!
+
+>verbose
+Maximum verbosity.
+
+>give egg to thief
+You don't have that!
+
+>verbose
+Maximum verbosity.
+
+>out
+You can't go that way.
+
+>throw knife at thief
+You don't have that!
+
+>drink water
+You can't see any water here!
+
+>verbose
+Maximum verbosity.
+
+>pray
+Your prayers are not heard.
+
+>ulysses
+You can't even do that.
+
+>open window
+You can't see any window here!
+
+>enter boat
+You can't see any boat here!
+
+>odysseus
+You can't even do that.
+
+>open door
+You can't see any door here!
+
+>oops
+I can't help your clumsiness.
+
+>count leaves
+You can't see any leaves here!
+
+>listen
+What do you want to listen to?
+
+>pour water
+You can't see any water here!
+
+>examine all
+stairs: You can't even do that.
+
+>open case
+You can't see any case here!
+
+>again
+You can't see any case here!
+
+>look
+The room looks strange and unearthly and objects appear indistinct.
+Although there is no light, the room seems dimly illuminated.
+
+Cave
+This is a tiny cave with entrances west and north, and a dark, forbidding
+staircase leading down.
+
+>eat lunch
+You can't see any lunch here!
+
+>n
+Mirror Room
+You are in a large square room with tall ceilings. On the south wall is an
+enormous mirror which fills the entire wall. There are exits on the other three
+sides of the room.
+
+>open window
+You can't see any window here!
+
+>w
+Winding Passage
+This is a winding passage. It seems that there are only exits on the east and
+north.
+There is a brass bell here.
+
+>again
+You can't go that way.
+
+>nw
+You can't go that way.
+
+>throw knife at thief
+You don't have that!
+
+>read leaflet
+You can't see any leaflet here!
+
+>oops
+I can't help your clumsiness.
+
+>take all
+brass bell: Your hand passes through its object.
+
+>get bar
+You can't see any bar here!
+
+>s
+You can't go that way.
+
+>out
+You can't go that way.
+
+>u
+You can't go that way.
+
+>again
+You can't go that way.
+
+>climb rope
+You can't see any rope here!
+
+>open case
+You can't see any case here!
+
+>read leaflet
+You can't see any leaflet here!
+
+>listen
+What do you want to listen to?
+
+>echo
+You can't even do that.
+
+>push yellow button
+You can't see any yellow button here!
+
+>pour water
+You can't see any water here!
+
+>inventory
+You have no possessions.
+
+>z
+Might as well. You've got an eternity.
+
+>wave sceptre
+You don't have that!
+
+>push yellow button
+You can't see any yellow button here!
+
+>count leaves
+You can't see any leaves here!
+
+>temple
+You can't even do that.
+
+>w
+You can't go that way.
+
+>read book
+You can't see any book here!
+
+>put all in case
+You don't have the set of teeth.
+
+>w
+You can't go that way.
+
+>jump
+You can't even do that.
+
+>inventory
+You have no possessions.
+
+>e
+Cave
+This is a tiny cave with entrances west and north, and a dark, forbidding
+staircase leading down.
+
+>ne
+You can't go that way.
+
+>read book
+You can't see any book here!
+
+>climb tree
+You can't see any tree here!
+
+>score
+You're dead! How can you think of your score?
+
+>s
+You can't go that way.
+
+>kill thief with sword
+You don't have that!
+
+>treasure
+You can't even do that.
+
+>move rug
+You can't see any rug here!
+
+>echo
+You can't even do that.
+
+>pour water
+You can't see any water here!
+
+>w
+Winding Passage
+This is a winding passage. It seems that there are only exits on the east and
+north.
+There is a brass bell here.
+
+>pour water
+You can't see any water here!
+
+>take all
+brass bell: Your hand passes through its object.
+
+>drink water
+You can't see any water here!
+
+>pray
+Your prayers are not heard.
+
+>examine all
+pair of hands: You can't even do that.
+
+>count leaves
+You can't see any leaves here!
+
+>wave sceptre
+You don't have that!
+
+>e
+Cave
+This is a tiny cave with entrances west and north, and a dark, forbidding
+staircase leading down.
+
+>open window
+You can't see any window here!
+
+>open case
+You can't see any case here!
+
+>count leaves
+You can't see any leaves here!
+
+>in
+You can't go that way.
+
+>again
+You can't go that way.
+
+>enter boat
+You can't see any boat here!
+
+>again
+You can't see any boat here!
+
+>inflate boat
+What do you want to inflate the boat with?
+
+>count leaves
+You can't see any leaves here!
+
+>inflate boat
+What do you want to inflate the boat with?
+
+>oops
+I can't help your clumsiness.
+
+>drop all
+You don't have the stairs.
+
+>score
+You're dead! How can you think of your score?
+
+>open trap door
+You can't see any trap door here!
+
+>light torch
+You don't have that!
+
+>temple
+You can't even do that.
+
+>temple
+You can't even do that.
+
+>read book
+You can't see any book here!
+
+>inflate boat
+What do you want to inflate the boat with?
+
+>read book
+You can't see any book here!
+
+>e
+You can't go that way.
+
+>drop all
+You don't have the stairs.
+
+>diagnose
+You are dead.
+
+>inventory
+You have no possessions.
+
+>s
+You can't go that way.
+
+>jump
+You can't even do that.
+
+>enter window
+You can't see any window here!
+
+>e
+You can't go that way.
+
+>wave sceptre
+You don't have that!
+
+>put all in case
+You don't have the stairs.
+
+>oops
+I can't help your clumsiness.
+
+>inventory
+You have no possessions.
+
+>examine all
+stairs: You can't even do that.
+
+>read leaflet
+You can't see any leaflet here!
+
+>e
+You can't go that way.
+
+>e
+You can't go that way.
+
+>examine all
+stairs: You can't even do that.
+
+>move rug
+You can't see any rug here!
+
+>take lamp
+You can't see any lamp here!
+
+>look
+The room looks strange and unearthly and objects appear indistinct.
+Although there is no light, the room seems dimly illuminated.
+
+Cave
+This is a tiny cave with entrances west and north, and a dark, forbidding
+staircase leading down.
+
+>eat lunch
+You can't see any lunch here!
+
+>z
+Might as well. You've got an eternity.
+
+>eat lunch
+You can't see any lunch here!
+
+>read book
+You can't see any book here!
+
+>d
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+  Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled
+bodies in one corner. Thousands of voices, lamenting some hideous fate, can be
+heard.
+
+>push blue button
+You can't see any blue button here!
+
+>w
+You can't go that way.
+
+>w
+You can't go that way.
+
+>ne
+You can't go that way.
+
+>brief
+Brief descriptions.
+
+>drink water
+You can't see any water here!
+
+>push blue button
+You can't see any blue button here!
+
+>open door
+You can't see any door here!
+
+>read book
+You can't see any book here!
+
+>light torch
+You don't have that!
+
+>look
+The room looks strange and unearthly and objects appear indistinct.
+
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+  Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled
+bodies in one corner. Thousands of voices, lamenting some hideous fate, can be
+heard.
+
+>enter boat
+You can't see any boat here!
+
+>turn on lamp
+You can't see any lamp here!
+
+>in
+Land of the Dead
+
+>kill thief with sword
+You don't have that!
+
+>e
+You can't go that way.
+
+>sw
+You can't go that way.
+
+>drop all
+You don't have the pile of bodies.
+
+>turn bolt
+You can't see any bolt here!
+
+>d
+You can't go that way.
+
+>e
+You can't go that way.
+
+>treasure
+You can't even do that.
+
+>attack troll
+What do you want to attack the troll with?
+
+>turn bolt
+You can't see any bolt here!
+
+>take coffin
+You can't see any coffin here!
+
+>drink water
+You can't see any water here!
+
+>move rug
+You can't see any rug here!
+
+>wave sceptre
+You don't have that!
+
+>enter boat
+You can't see any boat here!
+
+>take sword
+You can't see any sword here!
+
+>s
+You can't go that way.
+
+>nw
+You can't go that way.
+
+>examine all
+pile of bodies: You can't even do that.
+
+>light torch
+You don't have that!
+
+>open case
+You can't see any case here!
+
+>climb rope
+You can't see any rope here!
+
+>take lamp
+You can't see any lamp here!
+
+>take sword
+You can't see any sword here!
+
+>read leaflet
+You can't see any leaflet here!
+
+>read book
+You can't see any book here!
+
+>out
+Entrance to Hades
+
+>e
+You can't go that way.
+
+>drink water
+You can't see any water here!
+
+>s
+Land of the Dead
+
+>treasure
+You can't even do that.
+
+>n
+Entrance to Hades
+
+>read leaflet
+You can't see any leaflet here!
+
+>read book
+You can't see any book here!
+
+>eat lunch
+You can't see any lunch here!
+
+>z
+Might as well. You've got an eternity.
+
+>jump
+You can't even do that.
+
+>smell
+What do you want to smell?
+
+>look
+The room looks strange and unearthly and objects appear indistinct.
+
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+  Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled
+bodies in one corner. Thousands of voices, lamenting some hideous fate, can be
+heard.
+
+>in
+Land of the Dead
+
+>read leaflet
+You can't see any leaflet here!
+
+>drop all
+You don't have the pile of bodies.
+
+>g
+That would just repeat a mistake.
+
+>again
+That would just repeat a mistake.
+
+>take sword
+You can't see any sword here!
+
+>wave sceptre
+You don't have that!
+
+>light torch
+You don't have that!
+
+>read leaflet
+You can't see any leaflet here!
+
+>enter boat
+You can't see any boat here!
+
+>light torch
+You don't have that!
+
+>d
+You can't go that way.
+
+>z
+Might as well. You've got an eternity.
+
+>odysseus
+You can't even do that.
+
+>push yellow button
+You can't see any yellow button here!
+
+>e
+You can't go that way.
+
+>s
+You can't go that way.
+
+>move rug
+You can't see any rug here!
+
+>se
+You can't go that way.
+
+>score
+You're dead! How can you think of your score?
+
+>listen
+What do you want to listen to?
+
+>odysseus
+You can't even do that.
+
+>z
+Might as well. You've got an eternity.
+
+>inflate boat
+What do you want to inflate the boat with?
+
+>read leaflet
+You can't see any leaflet here!
+
+>light torch
+You don't have that!
+
+>again
+That would just repeat a mistake.
+
+>d
+You can't go that way.
+
+>enter window
+You can't see any window here!
+
+>drink water
+You can't see any water here!
+
+>pour water
+You can't see any water here!
+
+>inflate boat
+What do you want to inflate the boat with?
+
+>take all
+There's nothing here you can take.
+
+>attack troll
+What do you want to attack the troll with?
+
+>e
+You can't go that way.
+
+>look
+The room looks strange and unearthly and objects appear indistinct.
+
+Land of the Dead
+You have entered the Land of the Living Dead. Thousands of lost souls can be
+heard weeping and moaning. In the corner are stacked the remains of dozens of
+previous adventurers less fortunate than yourself. A passage exits to the north.
+
+>w
+You can't go that way.
+
+>diagnose
+You are dead.
+
+>pray
+Your prayers are not heard.
+
+>dig sand
+What do you want to dig the sand with?
+
+>read leaflet
+You can't see any leaflet here!
+
+>eat lunch
+You can't see any lunch here!
+
+>se
+You can't go that way.
+
+>examine all
+pile of bodies: You can't even do that.
+
+>open window
+You can't see any window here!
+
+>s
+You can't go that way.
+
+>e
+You can't go that way.
+
+>jump
+You can't even do that.
+
+>pray
+Your prayers are not heard.
+
+>smell
+What do you want to smell?
+
+>z
+Might as well. You've got an eternity.
+
+>brief
+Brief descriptions.
+
+>oops
+I can't help your clumsiness.
+
+>drink water
+You can't see any water here!
+
+>put all in case
+You don't have the pile of bodies.
+
+>throw knife at thief
+You don't have that!
+
+>e
+You can't go that way.
+
+>dig sand
+What do you want to dig the sand with?
+
+>d
+You can't go that way.
+
+>brief
+Brief descriptions.
+
+>nw
+You can't go that way.
+
+>enter window
+You can't see any window here!
+
+>in
+You can't go that way.
+
+>enter window
+You can't see any window here!
+
+>push yellow button
+You can't see any yellow button here!
+
+>out
+Entrance to Hades
+
+>pour water
+You can't see any water here!
+
+>oops
+I can't help your clumsiness.
+
+>sw
+You can't go that way.
+
+>take coffin
+You can't see any coffin here!
+
+>pour water
+You can't see any water here!
+
+>put all in case
+You don't have the pile of bodies.
+
+>kill thief with sword
+You don't have that!
+
+>count leaves
+You can't see any leaves here!
+
+>read leaflet
+You can't see any leaflet here!
+
+>ulysses
+You can't even do that.
+
+>take lamp
+You can't see any lamp here!
+
+>count leaves
+You can't see any leaves here!
+
+>kill thief with sword
+You don't have that!
+
+>push blue button
+You can't see any blue button here!
+
+>listen
+What do you want to listen to?
+
+>verbose
+Maximum verbosity.
+
+>kill thief with sword
+You don't have that!
+
+>give egg to thief
+You don't have that!
+
+>w
+You can't go that way.
+
+>s
+Land of the Dead
+You have entered the Land of the Living Dead. Thousands of lost souls can be
+heard weeping and moaning. In the corner are stacked the remains of dozens of
+previous adventurers less fortunate than yourself. A passage exits to the north.
+
+>echo
+You can't even do that.
+
+>nw
+You can't go that way.
+
+>in
+You can't go that way.
+
+>open case
+You can't see any case here!
+
+>enter window
+You can't see any window here!
+
+>se
+You can't go that way.
+
+>temple
+You can't even do that.
+
+>attack troll
+What do you want to attack the troll with?
+
+>se
+You can't go that way.
+
+>temple
+You can't even do that.
+
+>d
+You can't go that way.
+
+>wait
+Might as well. You've got an eternity.
+
+>take coffin
+You can't see any coffin here!
+
+>push blue button
+You can't see any blue button here!
+
+>pray
+Your prayers are not heard.
+
+>echo
+You can't even do that.
+
+>nw
+You can't go that way.
+
+>throw knife at thief
+You don't have that!
+
+>e
+You can't go that way.
+
+>turn bolt
+You can't see any bolt here!
+
+>open door
+You can't see any door here!
+
+>echo
+You can't even do that.
+
+>look
+The room looks strange and unearthly and objects appear indistinct.
+
+Land of the Dead
+You have entered the Land of the Living Dead. Thousands of lost souls can be
+heard weeping and moaning. In the corner are stacked the remains of dozens of
+previous adventurers less fortunate than yourself. A passage exits to the north.
+
+>se
+You can't go that way.
+
+>put all in case
+You don't have the pile of bodies.
+
+>climb rope
+You can't see any rope here!
+
+>take all
+There's nothing here you can take.
+
+>enter boat
+You can't see any boat here!
+
+>se
+You can't go that way.
+
+>move rug
+You can't see any rug here!
+
+>count leaves
+You can't see any leaves here!
+
+>climb tree
+You can't see any tree here!
+
+>take all
+There's nothing here you can take.
+
+>take lamp
+You can't see any lamp here!
+
+>dig sand
+What do you want to dig the sand with?
+
+>drop all
+You don't have the pile of bodies.
+
+>put all in case
+You don't have the pile of bodies.
+
+>climb rope
+You can't see any rope here!
+
+>jump
+You can't even do that.
+
+>put all in case
+You don't have the pile of bodies.
+
+>take lamp
+You can't see any lamp here!
+
+>count leaves
+You can't see any leaves here!
+
+>drop all
+You don't have the pile of bodies.
+
+>give egg to thief
+You don't have that!
+
+>inventory
+You have no possessions.
+
+>diagnose
+You are dead.
+
+>push blue button
+You can't see any blue button here!
+
+>look
+The room looks strange and unearthly and objects appear indistinct.
+
+Land of the Dead
+You have entered the Land of the Living Dead. Thousands of lost souls can be
+heard weeping and moaning. In the corner are stacked the remains of dozens of
+previous adventurers less fortunate than yourself. A passage exits to the north.
+
+>eat lunch
+You can't see any lunch here!
+
+>ulysses
+You can't even do that.
+
+>eat lunch
+You can't see any lunch here!
+
+>move rug
+You can't see any rug here!
+
+>smell
+What do you want to smell?
+
+>listen
+What do you want to listen to?
+
+>read book
+You can't see any book here!
+
+>smell
+What do you want to smell?
+
+>diagnose
+You are dead.
+
+>read book
+You can't see any book here!
+
+>echo
+You can't even do that.
+
+>eat lunch
+You can't see any lunch here!
+
+>examine all
+pile of bodies: You can't even do that.
+
+>nw
+You can't go that way.
+
+>sw
+You can't go that way.
+
+>s
+You can't go that way.
+
+>listen
+What do you want to listen to?
+
+>jump
+You can't even do that.
+
+>take coffin
+You can't see any coffin here!
+
+>w
+You can't go that way.
+
+>ne
+You can't go that way.
+
+>w
+You can't go that way.
+
+>wait
+Might as well. You've got an eternity.
+
+>oops
+I can't help your clumsiness.
+
+>smell
+What do you want to smell?
+
+>d
+You can't go that way.
+
+>s
+You can't go that way.
+
+>in
+You can't go that way.
+
+>brief
+Brief descriptions.
+
+>diagnose
+You are dead.
+
+>take sword
+You can't see any sword here!
+
+>push blue button
+You can't see any blue button here!
+
+>push blue button
+You can't see any blue button here!
+
+>move rug
+You can't see any rug here!
+
+>enter boat
+You can't see any boat here!
+
+>z
+Might as well. You've got an eternity.
+
+>z
+Might as well. You've got an eternity.
+
+>pour water
+You can't see any water here!
+
+>drop all
+You don't have the pile of bodies.
+
+>d
+You can't go that way.
+
+>take all
+There's nothing here you can take.
+
+>tie rope to railing
+Those things aren't here!
+
+>inflate boat
+What do you want to inflate the boat with?
+
+>dig sand
+What do you want to dig the sand with?
+
+>take coffin
+You can't see any coffin here!
+
+>jump
+You can't even do that.
+
+>enter window
+You can't see any window here!
+
+>climb tree
+You can't see any tree here!
+
+>take sword
+You can't see any sword here!
+
+>climb tree
+You can't see any tree here!
+
+>treasure
+You can't even do that.
+
+>give egg to thief
+You don't have that!
+
+>brief
+Brief descriptions.
+
+>light torch
+You don't have that!
+
+>take coffin
+You can't see any coffin here!
+
+>take sword
+You can't see any sword here!
+
+>e
+You can't go that way.
+
+>turn bolt
+You can't see any bolt here!
+
+>treasure
+You can't even do that.
+
+>n
+Entrance to Hades
+
+>oops
+I can't help your clumsiness.
+
+>n
+You can't go that way.
+
+>wave sceptre
+You don't have that!
+
+>get bar
+You can't see any bar here!
+
+>turn bolt
+You can't see any bolt here!
+
+>odysseus
+You can't even do that.
+
+>s
+Land of the Dead
+
+>d
+You can't go that way.
+
+>ulysses
+You can't even do that.
+
+>inflate boat
+What do you want to inflate the boat with?
+
+>n
+Entrance to Hades
+
+>odysseus
+You can't even do that.
+
+>pour water
+You can't see any water here!
+
+>treasure
+You can't even do that.
+
+>kill thief with sword
+You don't have that!
+
+>open door
+You can't see any door here!
+
+>wait
+Might as well. You've got an eternity.
+
+>move rug
+You can't see any rug here!
+
+>treasure
+You can't even do that.
+
+>take lamp
+You can't see any lamp here!
+
+>take all
+There's nothing here you can take.
+
+>treasure
+You can't even do that.
+
+>dig sand
+What do you want to dig the sand with?
+
+>smell
+What do you want to smell?
+
+>dig sand
+What do you want to dig the sand with?
+
+>count leaves
+You can't see any leaves here!
+
+>ulysses
+You can't even do that.
+
+>climb rope
+You can't see any rope here!
+
+>temple
+You can't even do that.
+
+>wait
+Might as well. You've got an eternity.
+
+>read leaflet
+You can't see any leaflet here!
+
+>throw knife at thief
+You don't have that!
+
+>echo
+You can't even do that.
+
+>n
+You can't go that way.
+
+>take lamp
+You can't see any lamp here!
+
+>take lamp
+You can't see any lamp here!
+
+>w
+You can't go that way.
+
+>take lamp
+You can't see any lamp here!
+
+>attack troll
+What do you want to attack the troll with?
+
+>enter window
+You can't see any window here!
+
+>read book
+You can't see any book here!
+
+>take sword
+You can't see any sword here!
+
+>enter window
+You can't see any window here!
+
+>oops
+I can't help your clumsiness.
+
+>climb tree
+You can't see any tree here!
+
+>turn on lamp
+You can't see any lamp here!
+
+>turn on lamp
+You can't see any lamp here!
+
+>s
+Land of the Dead
+
+>climb rope
+You can't see any rope here!
+
+>kill thief with sword
+You don't have that!
+
+>e
+You can't go that way.
+
+>wait
+Might as well. You've got an eternity.
+
+>throw knife at thief
+You don't have that!
+
+>sw
+You can't go that way.
+
+>oops
+I can't help your clumsiness.
+
+>in
+You can't go that way.
+
+>give egg to thief
+You don't have that!
+
+>e
+You can't go that way.
+
+>take coffin
+You can't see any coffin here!
+
+>u
+You can't go that way.
+
+>oops
+I can't help your clumsiness.
+
+>ulysses
+You can't even do that.
+
+>oops
+I can't help your clumsiness.
+
+>n
+Entrance to Hades
+
+>g
+You can't go that way.
+
+>n
+You can't go that way.
+
+>smell
+What do you want to smell?
+
+>w
+You can't go that way.
+
+>temple
+You can't even do that.
+
+>n
+You can't go that way.
+
+>w
+You can't go that way.
+
+>open door
+You can't see any door here!
+
+>e
+You can't go that way.
+
+>take coffin
+You can't see any coffin here!
+
+>echo
+You can't even do that.
+
+>wait
+Might as well. You've got an eternity.
+
+>get bar
+You can't see any bar here!
+
+>throw knife at thief
+You don't have that!
+
+>z
+Might as well. You've got an eternity.
+
+>climb rope
+You can't see any rope here!
+
+>attack troll
+What do you want to attack the troll with?
+
+>open trap door
+You can't see any trap door here!
+
+>z
+Might as well. You've got an eternity.
+
+>g
+Might as well. You've got an eternity.
+
+>drop all
+You don't have the pile of bodies.
+
+>pour water
+You can't see any water here!
+
+>get bar
+You can't see any bar here!
+
+>again
+You can't see any bar here!
+
+>d
+You can't go that way.
+
+>nw
+You can't go that way.
+
+>open case
+You can't see any case here!
+
+>open trap door
+You can't see any trap door here!
+
+>n
+You can't go that way.
+
+>open window
+You can't see any window here!
+
+>s
+Land of the Dead
+
+>turn bolt
+You can't see any bolt here!
+
+>oops
+I can't help your clumsiness.
+
+>w
+You can't go that way.
+
+>count leaves
+You can't see any leaves here!
+
+>take lamp
+You can't see any lamp here!
+
+>s
+You can't go that way.
+
+>look
+The room looks strange and unearthly and objects appear indistinct.
+
+Land of the Dead
+You have entered the Land of the Living Dead. Thousands of lost souls can be
+heard weeping and moaning. In the corner are stacked the remains of dozens of
+previous adventurers less fortunate than yourself. A passage exits to the north.
+
+>put all in case
+You don't have the pile of bodies.
+
+>put all in case
+You don't have the pile of bodies.
+
+>open door
+You can't see any door here!
+
+>echo
+You can't even do that.
+
+>in
+You can't go that way.
+
+>open window
+You can't see any window here!
+
+>out
+Entrance to Hades
+
+>treasure
+You can't even do that.
+
+>enter boat
+You can't see any boat here!
+
+>enter window
+You can't see any window here!
+
+>take coffin
+You can't see any coffin here!
+
+>count leaves
+You can't see any leaves here!
+
+>give egg to thief
+You don't have that!
+
+>smell
+What do you want to smell?
+
+>sw
+You can't go that way.
+
+>push yellow button
+You can't see any yellow button here!
+
+>ulysses
+You can't even do that.
+
+>look
+The room looks strange and unearthly and objects appear indistinct.
+
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+  Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled
+bodies in one corner. Thousands of voices, lamenting some hideous fate, can be
+heard.
+
+>odysseus
+You can't even do that.
+
+>climb tree
+You can't see any tree here!
+
+>turn on lamp
+You can't see any lamp here!
+
+>sw
+You can't go that way.
+
+>climb rope
+You can't see any rope here!
+
+>e
+You can't go that way.
+
+>push blue button
+You can't see any blue button here!
+
+>ne
+You can't go that way.
+
+>temple
+You can't even do that.
+
+>w
+You can't go that way.
+
+>examine all
+pile of bodies: You can't even do that.
+
+>light torch
+You don't have that!
+
+>move rug
+You can't see any rug here!
+
+>inflate boat
+What do you want to inflate the boat with?
+
+>diagnose
+You are dead.
+
+>push yellow button
+You can't see any yellow button here!
+
+>drink water
+You can't see any water here!
+
+>wait
+Might as well. You've got an eternity.
+
+>dig sand
+What do you want to dig the sand with?
+
+>light torch
+You don't have that!
+
+>smell
+What do you want to smell?
+
+>read leaflet
+You can't see any leaflet here!
+
+>turn on lamp
+You can't see any lamp here!
+
+>ulysses
+You can't even do that.
+
+>brief
+Brief descriptions.
+
+>brief
+Brief descriptions.
+
+>push blue button
+You can't see any blue button here!
+
+>jump
+You can't even do that.
+
+>get bar
+You can't see any bar here!
+
+>read leaflet
+You can't see any leaflet here!
+
+>z
+Might as well. You've got an eternity.
+
+>brief
+Brief descriptions.
+
+>s
+Land of the Dead
+
+>push blue button
+You can't see any blue button here!
+
+>wait
+Might as well. You've got an eternity.
+
+>read leaflet
+You can't see any leaflet here!
+
+>se
+You can't go that way.
+
+>inflate boat
+What do you want to inflate the boat with?
+
+>drop all
+You don't have the pile of bodies.
+
+>enter window
+You can't see any window here!
+
+>count leaves
+You can't see any leaves here!
+
+>throw knife at thief
+You don't have that!
+
+>smell
+What do you want to smell?
+
+>sw
+You can't go that way.
+
+>diagnose
+You are dead.
+
+>s
+You can't go that way.
+
+>push yellow button
+You can't see any yellow button here!
+
+>take sword
+You can't see any sword here!
+
+>tie rope to railing
+Those things aren't here!
+
+>echo
+You can't even do that.
+
+>put all in case
+You don't have the pile of bodies.
+
+>in
+You can't go that way.
+
+>put all in case
+You don't have the pile of bodies.
+
+>in
+You can't go that way.
+
+>treasure
+You can't even do that.
+
+>open door
+You can't see any door here!
+
+>jump
+You can't even do that.
+
+>throw knife at thief
+You don't have that!
+
+>inventory
+You have no possessions.
+
+>listen
+What do you want to listen to?
+
+>throw knife at thief
+You don't have that!
+
+>again
+That would just repeat a mistake.
+
+>se
+You can't go that way.
+
+>climb tree
+You can't see any tree here!
+
+>turn on lamp
+You can't see any lamp here!
+
+>n
+Entrance to Hades
+
+>enter boat
+You can't see any boat here!
+
+>climb tree
+You can't see any tree here!
+
+>inventory
+You have no possessions.
+
+>n
+You can't go that way.
+
+>move rug
+You can't see any rug here!
+
+>listen
+What do you want to listen to?
+
+>count leaves
+You can't see any leaves here!
+
+>e
+You can't go that way.
+
+>push blue button
+You can't see any blue button here!
+
+>turn bolt
+You can't see any bolt here!
+
+>n
+You can't go that way.
+
+>oops
+I can't help your clumsiness.
+
+>eat lunch
+You can't see any lunch here!
+
+>odysseus
+You can't even do that.
+
+>e
+You can't go that way.
+
+>read book
+You can't see any book here!
+
+>put all in case
+You don't have the pile of bodies.
+
+>read book
+You can't see any book here!
+
+>s
+Land of the Dead
+
+>dig sand
+What do you want to dig the sand with?
+
+>enter boat
+You can't see any boat here!
+
+>ne
+You can't go that way.
+
+>oops
+I can't help your clumsiness.
+
+>open case
+You can't see any case here!
+
+>count leaves
+You can't see any leaves here!
+
+>pour water
+You can't see any water here!
+
+>in
+You can't go that way.
+
+>ulysses
+You can't even do that.
+
+>temple
+You can't even do that.
+
+>ulysses
+You can't even do that.
+
+>read leaflet
+You can't see any leaflet here!
+
+>d
+You can't go that way.
+
+>verbose
+Maximum verbosity.
+
+>ulysses
+You can't even do that.
+
+>turn bolt
+You can't see any bolt here!
+
+>u
+You can't go that way.
+
+>take lamp
+You can't see any lamp here!
+
+>d
+You can't go that way.
+
+>drop all
+You don't have the pile of bodies.
+
+>w
+You can't go that way.
+
+>attack troll
+What do you want to attack the troll with?
+
+>turn bolt
+You can't see any bolt here!
+
+>take all
+There's nothing here you can take.
+
+>dig sand
+What do you want to dig the sand with?
+
+>s
+You can't go that way.
+
+>open window
+You can't see any window here!
+
+>push yellow button
+You can't see any yellow button here!
+
+>diagnose
+You are dead.
+
+>give egg to thief
+You don't have that!
+
+>look
+The room looks strange and unearthly and objects appear indistinct.
+
+Land of the Dead
+You have entered the Land of the Living Dead. Thousands of lost souls can be
+heard weeping and moaning. In the corner are stacked the remains of dozens of
+previous adventurers less fortunate than yourself. A passage exits to the north.
+
+>climb rope
+You can't see any rope here!
+
+>s
+You can't go that way.
+
+>enter boat
+You can't see any boat here!
+
+>climb tree
+You can't see any tree here!
+
+>give egg to thief
+You don't have that!
+
+>open window
+You can't see any window here!
+
+>oops
+I can't help your clumsiness.
+
+>odysseus
+You can't even do that.
+
+>z
+Might as well. You've got an eternity.
+
+>attack troll
+What do you want to attack the troll with?
+
+>verbose
+Maximum verbosity.
+
+>s
+You can't go that way.
+
+>pray
+Your prayers are not heard.
+
+>read book
+You can't see any book here!
+
+>examine all
+pile of bodies: You can't even do that.
+
+>open window
+You can't see any window here!
+
+>look
+The room looks strange and unearthly and objects appear indistinct.
+
+Land of the Dead
+You have entered the Land of the Living Dead. Thousands of lost souls can be
+heard weeping and moaning. In the corner are stacked the remains of dozens of
+previous adventurers less fortunate than yourself. A passage exits to the north.
+
+>g
+The room looks strange and unearthly and objects appear indistinct.
+
+Land of the Dead
+You have entered the Land of the Living Dead. Thousands of lost souls can be
+heard weeping and moaning. In the corner are stacked the remains of dozens of
+previous adventurers less fortunate than yourself. A passage exits to the north.
+
+>ulysses
+You can't even do that.
+
+>smell
+What do you want to smell?
+
+>
+I beg your pardon?
+
+>
+==== status line:  Land of the Dead                                      Score: 59    Moves: 843
+==== stopped: input used up

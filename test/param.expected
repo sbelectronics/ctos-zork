@@ -1,0 +1,94 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ZORK I: The Great Underground Empire
+Infocom interactive fiction - a fantasy story
+Copyright (c) 1981, 1982, 1983, 1984, 1985, 1986 Infocom, Inc. All rights
+reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Release 119 / Serial number 880429
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+>open mailbox
+Opening the small mailbox reveals a leaflet.
+
+>save
+
+File name (RETURN for Zork2.sav):
+Ok.
+>north
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+>restore
+
+File name (RETURN for Zork2.sav):
+Ok.
+
+>look
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+The small mailbox contains:
+  A leaflet
+
+>quit
+Your score is 0 (total of 350 points), in 2 moves.
+This gives you the rank of Beginner.
+Do you wish to leave the game? (Y is affirmative): >y
+
+[Press any key to return to the Executive]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==== status line: 
+==== stopped: Exit

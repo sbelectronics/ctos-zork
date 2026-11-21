@@ -1,0 +1,10 @@
+# Store text with LF and check it out with LF on every platform.
+* text=auto eol=lf
+
+# Never convert or diff these.
+*.img binary
+*.run binary
+*.dat binary
+*.png binary
+*.obj binary
+*.86 binary

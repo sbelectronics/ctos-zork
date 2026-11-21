@@ -1,0 +1,48 @@
+open mailbox
+take all
+drop all
+take all from mailbox
+g
+version
+verbose
+brief
+superbrief
+brief
+s
+e
+open window
+enter window
+take all
+x bottle
+drink water
+x table
+oops sack
+w
+take sword, lamp
+x sword
+turn on lamp
+xyzzy
+plugh
+hello sailor
+take frobozz
+read glamdring
+put sword in case
+open case
+put sword in case
+look in case
+take sword from case
+score
+verify
+script
+unscript
+save
+dummy.sav
+drop sword
+inventory
+restore
+dummy.sav
+inventory
+restore
+nosuch.sav
+quit
+y

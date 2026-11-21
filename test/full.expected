@@ -1,0 +1,394 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ZORK I: The Great Underground Empire
+Infocom interactive fiction - a fantasy story
+Copyright (c) 1981, 1982, 1983, 1984, 1985, 1986 Infocom, Inc. All rights
+reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Release 119 / Serial number 880429
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+>n
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+>n
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of
+the path.
+
+>u
+Up a Tree
+You are about 10 feet above the ground nestled among some large branches. The
+nearest branch above you is above your reach.
+Beside you on the branch is a small bird's nest.
+In the bird's nest is a large egg encrusted with precious jewels, apparently
+scavenged by a childless songbird. The egg is covered with fine gold inlay, and
+ornamented in lapis lazuli and mother-of-pearl. Unlike most eggs, this one is
+hinged and closed with a delicate looking clasp. The egg appears extremely
+fragile.
+
+>take egg
+Taken.
+
+>d
+Forest Path
+
+>s
+North of House
+
+>e
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+>open window
+With great effort, you open the window far enough to allow entry.
+
+>w
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+On the table is an elongated brown sack, smelling of hot peppers.
+
+>w
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+>take lamp
+Taken.
+
+>turn on lamp
+The brass lantern is now on.
+
+>e
+Kitchen
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+On the table is an elongated brown sack, smelling of hot peppers.
+
+>u
+Attic
+This is the attic. The only exit is a stairway leading down.
+A large coil of rope is lying in the corner.
+On a table is a nasty-looking knife.
+
+>take rope
+Taken.
+
+>d
+Kitchen
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+On the table is an elongated brown sack, smelling of hot peppers.
+
+>w
+Living Room
+Above the trophy case hangs an elvish sword of great antiquity.
+
+>move rug
+With a great effort, the rug is moved to one side of the room, revealing the
+dusty cover of a closed trap door.
+
+>open trap door
+The door reluctantly opens to reveal a rickety staircase descending into
+darkness.
+
+>take sword
+Taken.
+
+>d
+The trap door crashes shut, and you hear someone barring it.
+
+Cellar
+You are in a dark and damp cellar with a narrow passageway leading north, and a
+crawlway to the south. On the west is the bottom of a steep metal ramp which is
+unclimbable.
+Your sword is glowing with a faint blue glow.
+
+>n
+The Troll Room
+This is a small room with passages to the east and south and a forbidding hole
+leading west. Bloodstains and deep scratches (perhaps made by an axe) mar the
+walls.
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the
+room.
+Your sword has begun to glow very brightly.
+
+>kill troll with sword
+The troll is momentarily disoriented and can't fight back.
+The troll slowly regains his feet.
+
+>kill troll with sword
+The haft of your sword knocks out the troll.
+
+>kill troll with sword
+The unconscious troll cannot defend himself: He dies.
+Almost as soon as the troll breathes his last breath, a cloud of sinister black
+fog envelops him, and when the fog lifts, the carcass has disappeared.
+Your sword is no longer glowing.
+
+>e
+East-West Passage
+This is a narrow east-west passageway. There is a narrow stairway leading down
+at the north end of the room.
+
+>e
+Round Room
+This is a circular stone room with passages in all directions. Several of them
+have unfortunately been blocked by cave-ins.
+
+>n
+North-South Passage
+This is a high north-south passage, which forks to the northeast.
+
+>ne
+Deep Canyon
+You are on the south edge of a deep canyon. Passages lead off to the east,
+northwest and southwest. A stairway leads down. You can hear the sound of
+flowing water from below.
+
+>e
+Dam
+You are standing on the top of the Flood Control Dam #3, which was quite a
+tourist attraction in times far distant. There are paths to the north, south,
+and west, and a scramble down.
+The sluice gates on the dam are closed. Behind the dam, there can be seen a wide
+reservoir. Water is pouring over the top of the now abandoned dam.
+There is a control panel here, on which a large metal bolt is mounted. Directly
+above the bolt is a small green plastic bubble.
+
+>n
+Dam Lobby
+This room appears to have been the waiting room for groups touring the dam.
+There are open doorways here to the north and east marked "Private", and there
+is a path leading south over the top of the dam.
+Some guidebooks entitled "Flood Control Dam #3" are on the reception desk.
+There is a matchbook whose cover says "Visit Beautiful FCD#3" here.
+
+>take matches
+Taken.
+
+>n
+Maintenance Room
+This is what appears to have been the maintenance room for Flood Control Dam #3.
+Apparently, this room has been ransacked recently, for most of the valuable
+equipment is gone. On the wall in front of you is a group of buttons colored
+blue, yellow, brown, and red. There are doorways to the west and south.
+There is a wrench here.
+There is an object which looks like a tube of toothpaste here.
+There is a screwdriver here.
+There is a group of tool chests here.
+
+>push yellow button
+Click.
+
+>take wrench
+Taken.
+
+>take screwdriver
+Taken.
+
+>s
+Dam Lobby
+Some guidebooks entitled "Flood Control Dam #3" are on the reception desk.
+
+>s
+Dam
+You are standing on the top of the Flood Control Dam #3, which was quite a
+tourist attraction in times far distant. There are paths to the north, south,
+and west, and a scramble down.
+The sluice gates on the dam are closed. Behind the dam, there can be seen a wide
+reservoir. Water is pouring over the top of the now abandoned dam.
+There is a control panel here, on which a large metal bolt is mounted. Directly
+above the bolt is a small green plastic bubble which is glowing serenely.
+
+>turn bolt with wrench
+The sluice gates open and water pours through the dam.
+
+>drop wrench
+Dropped.
+
+>drop screwdriver
+Dropped.
+
+>s
+Deep Canyon
+
+>sw
+North-South Passage
+
+>s
+Round Room
+
+>se
+Engravings Cave
+You have entered a low cave with passages leading northwest and east.
+There are old engravings on the walls here.
+
+>e
+Dome Room
+You are at the periphery of a large dome, which forms the ceiling of another
+room below. Protecting you from a precipitous drop is a wooden railing which
+circles the dome.
+
+>tie rope to railing
+The rope drops over the side and comes within ten feet of the floor.
+
+>d
+Torch Room
+This is a large room with a prominent doorway leading to a down staircase. Above
+you is a large dome. Up around the edge of the dome (20 feet up) is a wooden
+railing. In the center of the room sits a white marble pedestal.
+A piece of rope descends from the railing above, ending some five feet above
+your head.
+Sitting on the pedestal is a flaming torch, made of ivory.
+
+>take torch
+Taken.
+
+>turn off lamp
+The brass lantern is now off.
+
+>drop sword
+Dropped.
+
+>drop egg
+Dropped.
+
+>s
+Temple
+This is the north end of a large temple. On the east wall is an ancient
+inscription, probably a prayer in a long-forgotten language. Below the prayer is
+a staircase leading down. The west wall is solid granite. The exit to the north
+end of the room is through huge marble pillars.
+There is a brass bell here.
+
+>take bell
+Taken.
+
+>s
+Altar
+This is the south end of a large temple. In front of you is what appears to be
+an altar. In one corner is a small hole in the floor which leads into darkness.
+You probably could not get back up it.
+On the two ends of the altar are burning candles.
+On the altar is a large black book, open to page 569.
+
+>take book
+Taken.
+
+>take candles
+Taken.
+
+>d
+Cave
+This is a tiny cave with entrances west and north, and a dark, forbidding
+staircase leading down.
+
+>d
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+  Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled
+bodies in one corner. Thousands of voices, lamenting some hideous fate, can be
+heard.
+The way through the gate is barred by evil spirits, who jeer at your attempts to
+pass.
+
+>ring bell
+The bell suddenly becomes red hot and falls to the ground. The wraiths, as if
+paralyzed, stop their jeering and slowly turn to face you. On their ashen faces,
+the expression of a long-forgotten terror takes shape.
+In your confusion, the candles drop to the ground (and they are out).
+
+>take candles
+Taken.
+
+>light match
+One of the matches starts to burn.
+
+>light candles with match
+The candles are lit.
+The flames flicker wildly and appear to dance. The earth beneath your feet
+trembles, and your legs nearly buckle beneath you. The spirits cower at your
+unearthly power.
+The match has gone out.
+
+>read book
+Each word of the prayer reverberates through the hall in a deafening confusion.
+As the last word fades, a voice, loud and commanding, speaks: "Begone, fiends!"
+A heart-stopping scream fills the cavern, and the spirits, sensing a greater
+power, flee through the walls.
+
+>s
+Land of the Dead
+You have entered the Land of the Living Dead. Thousands of lost souls can be
+heard weeping and moaning. In the corner are stacked the remains of dozens of
+previous adventurers less fortunate than yourself. A passage exits to the north.
+Lying in one corner of the room is a beautifully carved crystal skull. It
+appears to be grinning at you rather nastily.
+
+>take skull
+Taken.
+
+>n
+Entrance to Hades
+On the ground is a red hot bell.
+
+>u
+Cave
+
+>n
+Mirror Room
+You are in a large square room with tall ceilings. On the south wall is an
+enormous mirror which fills the entire wall. There are exits on the other three
+sides of the room.
+
+>
+I beg your pardon?
+
+>
+==== status line:  Mirror Room                                           Score: 69    Moves: 69
+==== stopped: input used up

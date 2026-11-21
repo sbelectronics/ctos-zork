@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ZORK I: The Great Underground Empire
+Infocom interactive fiction - a fantasy story
+Copyright (c) 1981, 1982, 1983, 1984, 1985, 1986 Infocom, Inc. All rights
+reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Release 119 / Serial number 880429
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+>open mailbox
+Opening the small mailbox reveals a leaflet.
+
+>take all
+small mailbox: It is securely anchored.
+
+>drop all
+You don't have the forest.
+
+>take all from mailbox
+leaflet: Taken.
+
+>g
+There's nothing here you can take.
+
+>version
+ZORK I: The Great Underground Empire
+Infocom interactive fiction - a fantasy story
+Copyright (c) 1981, 1982, 1983, 1984, 1985, 1986 Infocom, Inc. All rights
+reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Release 119 / Serial number 880429
+
+>verbose
+Maximum verbosity.
+
+>brief
+Brief descriptions.
+
+>superbrief
+Superbrief descriptions.
+>brief
+Brief descriptions.
+
+>s
+South of House
+You are facing the south side of a white house. There is no door here, and all
+the windows are boarded.
+
+>e
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one
+corner of the house there is a small window which is slightly ajar.
+
+>open window
+With great effort, you open the window far enough to allow entry.
+
+>enter window
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used
+recently for the preparation of food. A passage leads to the west and a dark
+staircase can be seen leading upward. A dark chimney leads down and to the east
+is a small window which is open.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+On the table is an elongated brown sack, smelling of hot peppers.
+
+>take all
+glass bottle: Taken.
+brown sack: Taken.
+
+>x bottle
+I don't know the word "x".
+
+>drink water
+You'll have to open the glass bottle first.
+
+>x table
+I don't know the word "x".
+
+>oops sack
+There was no verb in that sentence!
+
+>w
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with
+strange gothic lettering to the west, which appears to be nailed shut, a trophy
+case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+>take sword, lamp
+sword: Taken.
+brass lantern: Taken.
+
+>x sword
+I don't know the word "x".
+
+>turn on lamp
+The brass lantern is now on.
+
+>xyzzy
+A hollow voice says "Fool."
+
+>plugh
+A hollow voice says "Fool."
+
+>hello sailor
+Nothing happens here.
+
+>take frobozz
+You used the word "frobozz" in a way that I don't understand.
+
+>read glamdring
+How does one read a sword?
+
+>put sword in case
+The trophy case isn't open.
+
+>open case
+Opened.
+
+>put sword in case
+Done.
+
+>look in case
+Your collection of treasures consists of:
+  A sword
+
+>take sword from case
+Taken.
+
+>score
+Your score is 10 (total of 350 points), in 22 moves.
+This gives you the rank of Beginner.
+
+>verify
+I don't know the word "verify".
+
+>script
+Here begins a transcript of interaction with
+ZORK I: The Great Underground Empire
+Infocom interactive fiction - a fantasy story
+Copyright (c) 1981, 1982, 1983, 1984, 1985, 1986 Infocom, Inc. All rights
+reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Release 119 / Serial number 880429
+
+>unscript
+Here ends a transcript of interaction with
+ZORK I: The Great Underground Empire
+Infocom interactive fiction - a fantasy story
+Copyright (c) 1981, 1982, 1983, 1984, 1985, 1986 Infocom, Inc. All rights
+reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Release 119 / Serial number 880429
+
+>save
+
+File name (RETURN for Zork1.sav): dummy.sav
+Ok.
+
+>drop sword
+Dropped.
+
+>inventory
+You are carrying:
+  A brass lantern (providing light)
+  A brown sack
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+  A leaflet
+
+>restore
+
+File name (RETURN for Zork1.sav): dummy.sav
+Ok.
+
+>inventory
+You are carrying:
+  A sword
+  A brass lantern (providing light)
+  A brown sack
+  A glass bottle
+  The glass bottle contains:
+    A quantity of water
+  A leaflet
+
+>restore
+
+File name (RETURN for Zork1.sav): nosuch.sav
+Failed (CTOS error 203).
+Failed.
+
+>quit
+Your score is 10 (total of 350 points), in 23 moves.
+This gives you the rank of Beginner.
+Do you wish to leave the game? (Y is affirmative): >y
+
+[Press any key to return to the Executive]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==== status line: 
+==== stopped: Exit

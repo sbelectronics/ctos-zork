@@ -1,0 +1,38 @@
+n
+n
+u
+take egg
+d
+s
+e
+open window
+w
+open sack
+take garlic
+u
+take rope
+take knife
+d
+w
+take lamp
+take sword
+move rug
+open trap door
+turn on lamp
+inventory
+d
+n
+kill troll with sword
+kill troll with sword
+kill troll with sword
+kill troll with sword
+kill troll with sword
+kill troll with sword
+score
+save
+
+look
+restore
+
+look
+diagnose

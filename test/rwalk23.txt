@@ -1,0 +1,1069 @@
+n
+n
+u
+take egg
+d
+s
+e
+open window
+w
+w
+take lamp
+turn on lamp
+e
+u
+take rope
+d
+w
+move rug
+open trap door
+take sword
+d
+n
+kill troll with sword
+kill troll with sword
+kill troll with sword
+e
+e
+n
+ne
+e
+n
+take matches
+n
+push yellow button
+take wrench
+take screwdriver
+s
+s
+turn bolt with wrench
+drop wrench
+drop screwdriver
+s
+sw
+s
+se
+e
+tie rope to railing
+d
+take torch
+turn off lamp
+drop sword
+drop egg
+s
+take bell
+s
+take book
+take candles
+d
+d
+ring bell
+take candles
+light match
+light candles with match
+read book
+s
+take skull
+n
+u
+n
+give egg to thief
+n
+e
+ulysses
+take coffin
+open window
+count leaves
+move rug
+inventory
+read book
+listen
+dig sand
+s
+wait
+climb rope
+w
+w
+n
+pour water
+put all in case
+e
+drink water
+wave sceptre
+move rug
+sw
+enter boat
+ne
+take sword
+turn on lamp
+inflate boat
+take lamp
+take sword
+kill thief with sword
+temple
+n
+push yellow button
+turn on lamp
+push blue button
+tie rope to railing
+in
+light torch
+turn on lamp
+again
+treasure
+throw knife at thief
+examine all
+look
+n
+e
+take coffin
+ne
+smell
+smell
+g
+w
+take sword
+kill thief with sword
+oops
+ulysses
+climb rope
+brief
+inflate boat
+jump
+climb tree
+w
+take all
+pour water
+diagnose
+g
+oops
+open door
+e
+enter window
+out
+tie rope to railing
+ne
+sw
+put all in case
+attack troll
+e
+in
+wait
+s
+wait
+sw
+again
+dig sand
+s
+open trap door
+e
+open window
+get bar
+read book
+ne
+d
+jump
+turn bolt
+brief
+examine all
+climb rope
+give egg to thief
+inflate boat
+s
+w
+verbose
+count leaves
+out
+oops
+verbose
+diagnose
+pray
+e
+put all in case
+out
+s
+dig sand
+z
+put all in case
+out
+open case
+u
+diagnose
+oops
+give egg to thief
+take coffin
+open case
+odysseus
+verbose
+brief
+se
+kill thief with sword
+w
+w
+drop all
+g
+verbose
+wave sceptre
+echo
+out
+n
+z
+verbose
+oops
+look
+diagnose
+verbose
+push yellow button
+tie rope to railing
+listen
+n
+z
+open window
+w
+open door
+read leaflet
+enter boat
+w
+turn on lamp
+tie rope to railing
+take coffin
+n
+put all in case
+smell
+push blue button
+oops
+verbose
+turn on lamp
+count leaves
+again
+odysseus
+jump
+s
+wait
+sw
+pour water
+open window
+e
+climb rope
+open case
+give egg to thief
+temple
+open case
+open trap door
+odysseus
+smell
+z
+in
+enter window
+nw
+put all in case
+push blue button
+brief
+pray
+again
+smell
+s
+enter window
+inflate boat
+jump
+open door
+eat lunch
+take sword
+look
+turn bolt
+take all
+smell
+dig sand
+n
+ne
+jump
+look
+echo
+push yellow button
+nw
+open case
+n
+smell
+examine all
+take lamp
+open door
+s
+light torch
+drink water
+attack troll
+take lamp
+give egg to thief
+n
+out
+nw
+take all
+light torch
+e
+drop all
+drop all
+give egg to thief
+push yellow button
+give egg to thief
+se
+nw
+w
+treasure
+w
+drop all
+open trap door
+s
+in
+inflate boat
+enter boat
+take coffin
+temple
+wait
+again
+wave sceptre
+take lamp
+again
+wait
+verbose
+ulysses
+climb rope
+inventory
+move rug
+open window
+ulysses
+nw
+get bar
+attack troll
+open trap door
+enter boat
+again
+in
+enter boat
+temple
+open case
+take coffin
+sw
+nw
+temple
+take coffin
+push yellow button
+in
+put all in case
+take lamp
+echo
+temple
+ne
+give egg to thief
+tie rope to railing
+turn on lamp
+read leaflet
+take sword
+pour water
+e
+again
+take coffin
+light torch
+dig sand
+read book
+wave sceptre
+u
+climb rope
+n
+attack troll
+open window
+pray
+sw
+ne
+put all in case
+enter window
+open trap door
+listen
+out
+open door
+u
+drink water
+turn bolt
+oops
+take all
+u
+take coffin
+push yellow button
+open door
+ulysses
+take all
+e
+throw knife at thief
+enter boat
+again
+examine all
+open trap door
+ulysses
+listen
+kill thief with sword
+wave sceptre
+pour water
+oops
+oops
+give egg to thief
+z
+e
+wait
+verbose
+climb tree
+u
+drop all
+look
+ulysses
+pray
+look
+n
+n
+ne
+push blue button
+ne
+drink water
+jump
+listen
+oops
+put all in case
+n
+examine all
+d
+inventory
+turn on lamp
+inflate boat
+get bar
+sw
+open door
+jump
+n
+enter window
+nw
+put all in case
+nw
+e
+drop all
+open door
+s
+move rug
+drink water
+verbose
+put all in case
+s
+pour water
+n
+climb rope
+treasure
+kill thief with sword
+ne
+out
+enter boat
+ulysses
+look
+open door
+in
+drop all
+look
+take coffin
+eat lunch
+examine all
+out
+throw knife at thief
+again
+enter boat
+u
+listen
+e
+inventory
+look
+drink water
+wave sceptre
+move rug
+u
+enter boat
+eat lunch
+open window
+g
+e
+echo
+open door
+take sword
+take coffin
+climb rope
+inflate boat
+in
+verbose
+brief
+echo
+g
+ne
+e
+inventory
+climb tree
+u
+verbose
+take sword
+ne
+ne
+tie rope to railing
+se
+in
+jump
+open trap door
+enter boat
+turn bolt
+z
+odysseus
+s
+take coffin
+push blue button
+w
+read leaflet
+again
+open window
+open window
+e
+turn on lamp
+u
+w
+ne
+g
+open door
+w
+g
+attack troll
+open door
+open case
+odysseus
+inventory
+count leaves
+smell
+throw knife at thief
+oops
+drink water
+read leaflet
+turn on lamp
+listen
+read leaflet
+z
+climb tree
+s
+z
+odysseus
+brief
+n
+get bar
+push blue button
+open trap door
+se
+open case
+n
+smell
+turn on lamp
+look
+e
+score
+take lamp
+take coffin
+echo
+s
+count leaves
+jump
+pray
+examine all
+inflate boat
+turn on lamp
+again
+open door
+get bar
+treasure
+open case
+z
+take sword
+oops
+wait
+take coffin
+se
+open window
+temple
+look
+u
+sw
+inventory
+look
+light torch
+look
+wave sceptre
+kill thief with sword
+inventory
+move rug
+out
+e
+take lamp
+g
+give egg to thief
+climb rope
+enter boat
+attack troll
+kill thief with sword
+eat lunch
+ne
+in
+ne
+climb rope
+oops
+attack troll
+nw
+inventory
+push blue button
+s
+take lamp
+dig sand
+score
+oops
+open door
+read book
+ne
+smell
+read book
+look
+ulysses
+get bar
+n
+listen
+pray
+get bar
+throw knife at thief
+push blue button
+turn on lamp
+wave sceptre
+put all in case
+examine all
+look
+enter boat
+enter window
+n
+open case
+take all
+listen
+light torch
+listen
+wait
+inflate boat
+diagnose
+n
+give egg to thief
+drink water
+examine all
+put all in case
+n
+turn on lamp
+open case
+read book
+examine all
+nw
+oops
+inflate boat
+d
+e
+n
+light torch
+take sword
+ne
+w
+drink water
+open case
+treasure
+push blue button
+n
+wait
+listen
+sw
+drop all
+n
+e
+sw
+read book
+w
+n
+echo
+drop all
+s
+dig sand
+count leaves
+listen
+pour water
+get bar
+drink water
+nw
+nw
+brief
+out
+n
+treasure
+eat lunch
+push yellow button
+n
+read leaflet
+diagnose
+temple
+ne
+g
+throw knife at thief
+brief
+eat lunch
+turn on lamp
+get bar
+take lamp
+s
+enter boat
+kill thief with sword
+temple
+ulysses
+give egg to thief
+wait
+put all in case
+diagnose
+ne
+sw
+d
+treasure
+attack troll
+open window
+open case
+wait
+s
+drink water
+in
+wait
+examine all
+take coffin
+look
+oops
+s
+tie rope to railing
+se
+push blue button
+listen
+d
+enter window
+e
+count leaves
+wait
+ne
+z
+turn on lamp
+again
+enter window
+sw
+throw knife at thief
+jump
+out
+enter boat
+z
+climb tree
+drop all
+oops
+in
+take sword
+push blue button
+in
+attack troll
+w
+nw
+read book
+again
+take coffin
+score
+inflate boat
+move rug
+open door
+climb rope
+w
+verbose
+push blue button
+read book
+wait
+oops
+tie rope to railing
+oops
+tie rope to railing
+d
+e
+climb rope
+open trap door
+verbose
+put all in case
+z
+n
+score
+temple
+in
+odysseus
+g
+read book
+e
+move rug
+climb rope
+give egg to thief
+echo
+examine all
+s
+out
+ne
+se
+take sword
+n
+wait
+d
+verbose
+s
+examine all
+open window
+count leaves
+look
+z
+score
+temple
+look
+echo
+take lamp
+g
+inventory
+echo
+turn bolt
+climb tree
+ulysses
+listen
+w
+temple
+get bar
+diagnose
+light torch
+wave sceptre
+again
+listen
+eat lunch
+read book
+turn on lamp
+read leaflet
+attack troll
+open case
+ulysses
+turn on lamp
+attack troll
+s
+push yellow button
+take all
+s
+s
+n
+odysseus
+light torch
+e
+wave sceptre
+inventory
+push blue button
+z
+enter window
+ulysses
+open trap door
+open window
+pray
+open trap door
+enter boat
+attack troll
+climb tree
+put all in case
+temple
+enter window
+score
+inventory
+look
+open case
+open door
+move rug
+e
+enter window
+open case
+throw knife at thief
+d
+in
+e
+climb rope
+listen
+n
+diagnose
+e
+climb tree
+odysseus
+take lamp
+look
+score
+push yellow button
+smell
+look
+pour water
+diagnose
+put all in case
+get bar
+turn bolt
+n
+read book
+turn bolt
+take lamp
+pour water
+d
+n
+score
+open case
+open door
+d
+move rug
+brief
+nw
+look
+listen
+e
+drink water
+look
+enter boat
+move rug
+examine all
+push yellow button
+again
+treasure
+z
+inventory
+wait
+take sword
+s
+score
+ulysses
+open window
+s
+dig sand
+drink water
+wait
+in
+e
+take all
+throw knife at thief
+count leaves
+tie rope to railing
+again
+inventory
+eat lunch
+read leaflet
+take coffin
+give egg to thief
+dig sand
+u
+z
+wait
+se
+se
+again
+move rug
+take all
+open window
+drink water
+climb rope
+enter boat
+examine all
+open door
+score
+light torch
+tie rope to railing
+w
+give egg to thief
+eat lunch
+jump
+jump
+get bar
+sw
+e
+s
+tie rope to railing
+jump
+get bar
+take lamp
+take sword
+wait
+open trap door
+ne
+read book
+brief
+attack troll
+tie rope to railing
+d
+s
+wave sceptre
+open case
+nw
+n
+again
+eat lunch
+climb rope
+temple
+light torch
+open door
+odysseus
+push yellow button
+s
+n
+e
+temple
+odysseus
+nw
+pour water
+push yellow button
+move rug
+open trap door
+e
+turn bolt
+n
+kill thief with sword
+score
+oops
+g
+d
+se
+u
+score
+diagnose
+echo
+again
+jump
+read leaflet
+smell
+climb rope
+climb rope
+nw
+sw
+score
+w
+climb tree
+g
+ulysses
+g
+diagnose
+d
+treasure
+temple
+tie rope to railing
+w
+drop all
+attack troll
+open trap door
+echo
+drop all
+open case
+pray
+turn on lamp
+u
+inventory
+open case
+d
+odysseus
+diagnose
+wave sceptre

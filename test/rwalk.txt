@@ -1,0 +1,669 @@
+n
+n
+u
+take egg
+d
+s
+e
+open window
+w
+w
+take lamp
+turn on lamp
+e
+u
+take rope
+d
+w
+move rug
+open trap door
+take sword
+d
+n
+kill troll with sword
+kill troll with sword
+kill troll with sword
+e
+e
+n
+ne
+e
+n
+take matches
+n
+push yellow button
+take wrench
+take screwdriver
+s
+s
+turn bolt with wrench
+drop wrench
+drop screwdriver
+s
+sw
+s
+se
+e
+tie rope to railing
+d
+take torch
+turn off lamp
+drop sword
+drop egg
+s
+take bell
+s
+take book
+take candles
+d
+d
+ring bell
+take candles
+light match
+light candles with match
+read book
+s
+take skull
+n
+u
+n
+in
+d
+examine all
+treasure
+w
+ne
+listen
+se
+light torch
+give egg to thief
+w
+pray
+w
+e
+nw
+inflate boat
+enter boat
+ne
+take all
+nw
+smell
+inflate boat
+w
+kill thief with sword
+sw
+look
+temple
+temple
+give egg to thief
+w
+kill thief with sword
+give egg to thief
+examine all
+w
+look
+e
+smell
+u
+open door
+enter boat
+d
+listen
+sw
+kill thief with sword
+climb tree
+smell
+z
+s
+se
+give egg to thief
+kill thief with sword
+temple
+e
+light torch
+se
+smell
+ne
+kill thief with sword
+w
+ulysses
+w
+echo
+z
+listen
+inflate boat
+in
+score
+give egg to thief
+score
+light torch
+climb tree
+take all
+s
+take all
+nw
+kill thief with sword
+climb tree
+jump
+echo
+out
+wait
+open door
+odysseus
+ne
+sw
+pray
+enter boat
+n
+out
+d
+echo
+enter boat
+e
+g
+ne
+smell
+kill thief with sword
+in
+out
+turn on lamp
+odysseus
+echo
+give egg to thief
+score
+ne
+nw
+drop all
+diagnose
+g
+ne
+w
+climb tree
+treasure
+kill thief with sword
+z
+wait
+open door
+read book
+g
+turn on lamp
+s
+score
+turn on lamp
+n
+ulysses
+sw
+echo
+w
+w
+open door
+u
+take all
+examine all
+examine all
+echo
+nw
+n
+wait
+examine all
+smell
+drop all
+u
+inflate boat
+smell
+drop all
+enter boat
+turn on lamp
+z
+read book
+look
+d
+nw
+s
+d
+look
+g
+look
+n
+echo
+give egg to thief
+s
+inventory
+open door
+n
+d
+enter boat
+listen
+light torch
+ulysses
+kill thief with sword
+in
+u
+pray
+ulysses
+treasure
+z
+w
+score
+z
+smell
+examine all
+examine all
+examine all
+examine all
+se
+diagnose
+temple
+examine all
+w
+e
+ne
+w
+wait
+n
+sw
+out
+odysseus
+w
+se
+n
+kill thief with sword
+d
+listen
+se
+light torch
+ulysses
+s
+ne
+w
+ulysses
+read book
+d
+temple
+inventory
+turn on lamp
+odysseus
+light torch
+diagnose
+sw
+sw
+echo
+score
+diagnose
+diagnose
+climb tree
+nw
+d
+se
+out
+inventory
+diagnose
+n
+jump
+s
+w
+jump
+light torch
+d
+listen
+s
+jump
+climb tree
+treasure
+nw
+inventory
+jump
+light torch
+n
+turn on lamp
+look
+listen
+listen
+pray
+out
+temple
+look
+ulysses
+e
+take all
+examine all
+look
+e
+jump
+echo
+turn on lamp
+s
+s
+drop all
+diagnose
+inventory
+e
+odysseus
+turn on lamp
+wait
+turn on lamp
+light torch
+nw
+look
+se
+look
+diagnose
+e
+out
+w
+diagnose
+ulysses
+ulysses
+n
+diagnose
+treasure
+turn on lamp
+treasure
+nw
+g
+sw
+read book
+e
+diagnose
+s
+inflate boat
+temple
+out
+nw
+examine all
+score
+examine all
+nw
+n
+n
+u
+s
+d
+give egg to thief
+score
+treasure
+d
+ulysses
+odysseus
+diagnose
+g
+turn on lamp
+d
+smell
+smell
+u
+s
+n
+treasure
+se
+jump
+u
+inflate boat
+e
+w
+s
+inventory
+w
+open door
+pray
+take all
+give egg to thief
+in
+inventory
+listen
+enter boat
+u
+w
+turn on lamp
+score
+g
+give egg to thief
+jump
+enter boat
+pray
+u
+listen
+d
+jump
+pray
+s
+wait
+s
+odysseus
+n
+d
+s
+d
+diagnose
+ulysses
+sw
+smell
+w
+in
+z
+jump
+jump
+smell
+diagnose
+se
+smell
+w
+take all
+e
+drop all
+e
+se
+pray
+wait
+smell
+s
+ne
+wait
+in
+ulysses
+pray
+odysseus
+pray
+e
+drop all
+wait
+pray
+listen
+diagnose
+pray
+take all
+jump
+inventory
+smell
+e
+wait
+u
+enter boat
+sw
+examine all
+wait
+in
+ne
+g
+take all
+inflate boat
+ne
+w
+g
+climb tree
+sw
+d
+treasure
+g
+light torch
+d
+inventory
+u
+score
+look
+se
+examine all
+echo
+n
+g
+look
+n
+inflate boat
+pray
+examine all
+out
+enter boat
+e
+turn on lamp
+in
+nw
+light torch
+s
+out
+smell
+score
+wait
+s
+read book
+out
+jump
+ulysses
+open door
+pray
+ne
+sw
+look
+se
+nw
+inventory
+drop all
+e
+s
+drop all
+u
+inflate boat
+z
+inventory
+examine all
+d
+listen
+pray
+kill thief with sword
+echo
+in
+nw
+drop all
+w
+s
+inflate boat
+ne
+drop all
+s
+temple
+nw
+inventory
+nw
+odysseus
+look
+ne
+inventory
+sw
+score
+n
+out
+smell
+enter boat
+drop all
+ulysses
+u
+e
+jump
+take all
+sw
+n
+inventory
+w
+s
+e
+climb tree
+temple
+climb tree
+jump
+w
+open door
+wait
+pray
+z
+s
+drop all
+turn on lamp
+s
+inventory
+e
+n
+s
+pray
+smell
+e
+pray
+diagnose
+take all
+wait
+se
+g
+treasure
+inflate boat
+g
+echo
+listen
+examine all
+pray
+climb tree
+w
+look
+out
+e
+temple
+u
+examine all
+turn on lamp
+w
+u
+n
+ne
+temple
+inventory
+inflate boat
+n
+w
+nw
+g
+read book
+pray
+g
+open door
+odysseus
+take all
+open door
+e
+score
+s
+n
+drop all
+wait
+n
+inventory
+light torch
+out
+smell
+in
+take all
+e
+climb tree
+w
+turn on lamp
+s
+n
+out
+read book
+nw

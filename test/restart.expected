@@ -1,0 +1,93 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ZORK I: The Great Underground Empire
+Infocom interactive fiction - a fantasy story
+Copyright (c) 1981, 1982, 1983, 1984, 1985, 1986 Infocom, Inc. All rights
+reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Release 119 / Serial number 880429
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+>open mailbox
+Opening the small mailbox reveals a leaflet.
+
+>take leaflet
+Taken.
+
+>n
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+>save
+
+File name (RETURN for Zork1.sav): x1.sav
+Ok.
+
+>restart
+Your score is 0 (total of 350 points), in 3 moves.
+This gives you the rank of Beginner.
+Do you wish to restart? (Y is affirmative): >y
+Restarting.
+
+ZORK I: The Great Underground Empire
+Infocom interactive fiction - a fantasy story
+Copyright (c) 1981, 1982, 1983, 1984, 1985, 1986 Infocom, Inc. All rights
+reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Release 119 / Serial number 880429
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is a small mailbox here.
+
+>inventory
+You are empty-handed.
+
+>restore
+
+File name (RETURN for Zork1.sav): x1.sav
+Ok.
+
+>inventory
+You are carrying:
+  A leaflet
+
+>look
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.
+
+>
+I beg your pardon?
+
+>
+==== status line:  North of House                                        Score: 0     Moves: 5
+==== stopped: input used up

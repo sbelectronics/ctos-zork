@@ -1,0 +1,10 @@
+# a story named on the command form: its save files are Zork2.sav
+open mailbox
+save
+
+north
+restore
+
+look
+quit
+y
